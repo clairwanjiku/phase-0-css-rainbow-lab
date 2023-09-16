@@ -10,37 +10,33 @@ div {
   border-bottom-color: transparent; 
 }
 
-#f00 {
-  border-top-color:#f00:
-  background-color: red;
-  width: 90vw;
-  height:45vw
-  position: absolute;
+#red {
+  border-top-color:#f00;
    }
 
-#ffa500:{
-  background-color: orange;
+#orange{
+
+  border-top-color: #ffa500;
 }
 
-#ff0{
-  background-color: yellow;
+#yellow{
+  border-top-color: #ff0;
 }
 
-#06f{
-  background-color: green;
-}
-
-
-#06f{
-  background-color: blue;
+#green{
+  border-top-color: #00bc3f;
 }
 
 
-#8a2be2{
-  background-color: indigo;
+#blue{
+  border-top-color: #06f;
 }
 
-#d300c9{
-  border-top-color
-  background-color: violet;
+
+#indigo{
+  border-top-color: #8a2be2;
+}
+
+#violet{
+  border-top-color: #d300c9;
 }
